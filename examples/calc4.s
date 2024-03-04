@@ -1,0 +1,1 @@
+if (x < y) "x is smaller than y" else if (y < x) "x is greater than y" else "x and y are equal"
